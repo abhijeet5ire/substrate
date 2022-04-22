@@ -1,6 +1,4 @@
-<img src='./screenshot/commandlineapplication.jpg' />
 
-<img src='./screenshot/TcpListener.jpg' />
 ## Resources
 1 https://docs.substrate.io/tutorials/v3/create-your-first-substrate-chain/
 2  https://substrate.io/ 
